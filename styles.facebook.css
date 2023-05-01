@@ -1,0 +1,441 @@
+/**********************body*************************/
+body {
+    background-color: rgb(212, 212, 212);
+}
+/*******************body ends**********************/
+
+/*****************parent************************/
+.parent {
+    border: none;
+    width: 1050px;
+    height: 600px;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 6px rgb(39, 39, 39);
+}
+/*****************parent*   ends***********************/
+
+/*********************************CONTENT1 *********************/
+.content1 {
+    border: none;
+    width: 1050px;
+    height: 80px;
+    position: absolute;
+    background-color: rgb(5, 5, 168);
+    border-radius: 5px 5px 0 0;
+}
+
+/*********************************CONTENT1  ends*********************/
+
+/*************************h1*********************************/
+.h1 {
+    color: white;
+    position: absolute;
+    font-family: calibri;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+
+/*************************h1*ends********************************/
+
+/************************form1*******************************/
+.form {
+    position: absolute;
+    margin-left: 610px;
+    color: white;
+    font-size: 14px;
+    margin-top: 7px;
+}
+
+.form1text {
+    outline: none;
+    background-color: rgb(247, 247, 150);
+    border-radius: 5px;
+}
+
+/************************form1 ends*******************************/
+
+/************************form2 ************************************/
+.form2 {
+    position: absolute;
+    margin-left: 780px;
+    color: white;
+    font-size: 14px;
+    margin-top: 7px;
+
+}
+
+.form2text {
+    outline: none;
+    background-color: rgb(247, 247, 150);
+    border-radius: 5px;
+
+}
+
+/************************form2  ends ************************************/
+/********************************anchor forgot account******************/
+.forgot {
+    position: absolute;
+    margin-left: 3px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+a:hover { 
+    transition: 1s;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+
+}
+
+
+/**************************form3**********************************/
+.form3 {
+    position: absolute;
+    margin-left: 960px;
+    margin-top: 30px;
+    font-size: 12px;
+    
+}
+
+.form3text {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    outline: none;
+
+}
+
+/**************************form3 ends**********************************/
+
+
+/***************************content2***************************/
+.content2 {
+    border: none;
+    position: absolute;
+    width: 530px;
+    height: 518px;
+    margin-top: 80px;
+    background-color: rgb(228, 217, 255);
+}
+
+/***************************content2   ends***************************/
+
+
+
+/***************************img**************************/
+.img {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+/***************************img ends***************************/
+
+
+/***************************h1-2***************************/
+.h1-2 {
+    position:absolute;
+    color: rgb(68, 68, 185);
+    font-size: 29px;
+    font-family: calibri;
+    margin-top: 430px;
+    margin-left: 122px;
+    text-shadow: 1px 1px 7px rgb(150, 150, 253) ;
+    
+}
+
+
+/***************************h1-2   ends***************************/
+
+
+
+/***************************p1***************************/
+.p1 {
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 145px;
+    
+    text-shadow: 1px 1px 5px rgb(78, 77, 77);
+
+}
+
+
+/***************************p1    ends***************************/
+
+
+
+
+
+
+/******************************h1-3**************************/
+
+.h1-3 {
+    position: absolute;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 470px;
+    margin-top: 95px;
+}
+
+/******************************h1-3 ends**************************/
+
+
+/******************************p2**************************/
+.p2 {
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 140px ;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+
+/******************************p2 ends**************************/
+
+
+
+/******************************content3**************************/
+.content3 {
+    border: none;
+    position: absolute;
+    margin-left: 530px;
+    width: 519px;
+    height: 517px;
+    margin-top: 80px;
+    background-color: rgb(228, 217, 255);
+}
+
+/******************************content3   ends**************************/
+
+/******************************  h-01           **************************/
+.h-01 {
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    font-size: 30px;
+    color: black;
+}
+/******************************  h-01      end     **************************/
+
+/******************************  p-c01       **************************/
+.p-c01 {
+    position: absolute;
+    left: 50px;
+    top: 60px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+/******************************  p-c01   ends    **************************/
+
+
+
+/******************************  input-001    **************************/
+.input-001 {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    width: 215px;
+    padding: 4px;
+    outline: none;
+    border-radius: 7px;
+    border: 1px solid gray
+}
+
+/******************************  input-001 ends    **************************/
+
+
+/******************************  input-002    **************************/
+
+.input-002 {
+    position: absolute;
+    width: 215px;
+    left: 280px;
+    top: 100px;
+    padding: 4px;
+    outline: none;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+
+
+/******************************  input-002 ends   **************************/
+
+
+/******************************  input-003    **************************/
+.input-003 {
+    position: absolute;
+    width: 446px;
+    left: 50px;
+    top: 145px;
+    padding: 5px;
+    outline: none;
+    border-radius: 7px;
+    border: 1px solid gray;
+
+}
+
+/******************************  input-003  ends  **************************/
+
+
+/******************************  input-004    **************************/
+.input-004 {
+    position: absolute;
+    width: 446px;
+    left: 50px;
+    top: 190px;
+    padding: 5px;
+    outline: none;
+    border-radius: 7px;
+    border: 1px solid gray;
+
+}
+/******************************  input-004   ends **************************/
+
+
+/******************************  p-c02   **************************/
+.p-c02 {
+    position: absolute;
+    top: 240px;
+    left: 50px;
+    font-weight: bold;
+    font-size: 14px;
+    
+    
+}
+
+/******************************  p-c02 ends  **************************/
+
+
+/******************************  select  **************************/
+.select {
+    position: absolute;
+    top: 264px;
+    left: 50px;
+    width: 55px;
+}
+
+.select2 {
+    position: absolute;
+    top: 264px;
+    left: 105px;
+    width: 75px;
+    font-size: 16px;
+
+}
+    
+.select3 {
+    position: absolute;
+    top: 264px;
+    left: 180px;
+    width: 65px;
+    
+    
+    
+}
+#a-select, a-select:hover {
+    position: absolute;
+    top: 263px;
+    left: 255px;
+    text-decoration: none;
+    color: blue;
+    font-size: 9px;
+}
+.female {
+    position: absolute;
+    top: 304px;
+    left: 60px;
+    font-size: 15px;
+}
+.label-female {
+    position: absolute;
+    top: 305px;
+    left: 76px;
+    font-size: 15px;
+
+}
+
+.male {
+    position: absolute;
+    top: 305px;
+    left: 138px;
+    font-size: 10px
+}
+.label-male {
+    position: absolute;
+    top: 305px;
+    left: 156px;
+    font-size: 15px;
+
+}
+/******************************  select ends **************************/
+
+
+/******************************  p5 / span1 **************************/
+.p5 {
+    position: absolute;
+    top: 340px;
+    left: 50px;
+    font-size: 12px;
+}
+
+.span1 {
+    color: blue;
+}
+
+
+/******************************  p5 / span1  ends **************************/
+
+
+/******************************  sign up**************************/
+.sign-up {
+    position: absolute;
+    top: 420px;
+    left: 50px;
+    width: 180px;
+    background-color: rgb(21, 161, 84);
+    color: white;
+    font-weight: bolder;
+    font-family: calibri;
+    font-size: 19px;
+    padding:5px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+/******************************  sign up   ends**************************/
+
+
+/******************************  p6 **************************/
+.p6 {
+    position: absolute;
+    top: 479px;
+    left: 50px;
+    font-size: 13px;
+
+}
+
+
+/******************************  p6 ends**************************/
+
+
+/******************************  Span2**************************/
+.span2 {
+    color: blue;
+}
+
+
+
+
+
+
+
